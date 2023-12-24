@@ -1,11 +1,25 @@
 # bitcoin_ticker
 
-A new Flutter module project.
 
 ## Getting Started
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
+📈 Flutter Cryptocurrency Price Tracker
 
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+A straightforward cryptocurrency price tracker built with Flutter, providing real-time data for popular cryptocurrencies like Bitcoin, Ethereum, and Litecoin. This app uses a cryptocurrency API to fetch and display prices in various fiat currencies such as USD and EUR.
+
+🚀 Features:
+
+Real-time cryptocurrency prices
+Support for popular cryptocurrencies (Bitcoin, Ethereum, Litecoin)
+Conversion to major fiat currencies (USD, EUR)
+Clean and intuitive user interface
+Seamless API integration for up-to-date information
+
+
+👨‍💻 Tech Stack:
+
+Flutter
+Cryptocurrency API (e.g., Coin API)
+
+
+![Functionality Video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThsbmJxa29kdnEyM3k3N2FncGxpemVjYm4yY214eXdtdW5hNWYyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZKrtjFfQaWQH0fyfg/giphy.gif)
